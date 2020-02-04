@@ -7,9 +7,11 @@ fun main() {
     var abc=15 // type casting
     val bcd:Long=abc.toLong()
 
+    val myString = "priya"
     println(v1)
     println(v2)
     println(abc)
     println(bcd)
     println("hello word")
+    println(myString)
 }
